@@ -1,0 +1,151 @@
+id,name,team,position,salary,overall,protected
+1,Jalen Johnson,Atlanta Hawks,PF,30,86,Yes
+2,Nickeil Alexander-Walker,Atlanta Hawks,SG,20,84,Yes
+3,Dyson Daniels,Atlanta Hawks,SF,20,83,Yes
+4,Onyeka Okongwu,Atlanta Hawks,C,20,82,No
+5,C.J. McCollum,Atlanta Hawks,PG,20,82,No
+6,Jayson Tatum,Boston Celtics,PF,45,95,Yes
+7,Paul George,Boston Celtics,SF,30,85,Yes
+8,Derrick White,Boston Celtics,PG,20,83,Yes
+9,Payton Pritchard,Boston Celtics,PG,20,82,No
+10,Neemias Queta,Boston Celtics,C,20,80,No
+11,Michael Porter Jr.,Brooklyn Nets,SF,20,84,Yes
+12,Julius Randle,Brooklyn Nets,PF,20,83,Yes
+13,Day’Ron Sharpe,Brooklyn Nets,C,12,78,Yes
+14,Nolan Traore,Brooklyn Nets,PG,12,78,No
+15,Egor Demin,Brooklyn Nets,SG,12,77,No
+16,Kon Knueppel,Charlotte Hornets,SG,20,84,Yes
+17,Brandon Miller,Charlotte Hornets,SF,20,83,Yes
+18,Naz Reid,Charlotte Hornets,PF,20,82,Yes
+19,Grayson Allen,Charlotte Hornets,SG,20,80,No
+20,Moussa Diabate,Charlotte Hornets,C,12,79,No
+21,Norman Powell,Chicago Bulls,SG,20,83,Yes
+22,Caleb Wilson,Chicago Bulls,PF,20,82,Yes
+23,Josh Giddey,Chicago Bulls,PG,20,81,Yes
+24,Matas Buzelis,Chicago Bulls,SF,20,81,No
+25,Nicolas Claxton,Chicago Bulls,C,20,80,No
+26,Donovan Mitchell,Cleveland Cavaliers,SG,45,92,Yes
+27,Evan Mobley,Cleveland Cavaliers,PF,30,87,Yes
+28,Jarrett Allen,Cleveland Cavaliers,C,30,85,Yes
+29,James Harden,Cleveland Cavaliers,PG,30,85,No
+30,Peyton Watson,Cleveland Cavaliers,SF,12,78,No
+31,Cooper Flagg,Dallas Mavericks,SF,45,90,Yes
+32,Kyrie Irving,Dallas Mavericks,PG,30,88,Yes
+33,P.J. Washington,Dallas Mavericks,PF,20,80,Yes
+34,Daniel Gafford,Dallas Mavericks,C,12,79,No
+35,Dereck Lively II,Dallas Mavericks,C,12,79,No
+36,Nikola Jokic,Denver Nuggets,C,45,96,Yes
+37,Jamal Murray,Denver Nuggets,PG,45,90,Yes
+38,Aaron Gordon,Denver Nuggets,PF,20,80,Yes
+39,Cameron Johnson,Denver Nuggets,SF,12,79,No
+40,Christian Braun,Denver Nuggets,SG,12,79,No
+41,Cade Cunningham,Detroit Pistons,PG,45,95,Yes
+42,Jalen Duren,Detroit Pistons,C,30,85,Yes
+43,Ausar Thompson,Detroit Pistons,SF,30,85,Yes
+44,Duncan Robinson,Detroit Pistons,SG,20,81,No
+45,Daniss Jenkins,Detroit Pistons,PG,20,80,No
+46,Stephen Curry,Golden State Warriors,PG,45,95,Yes
+47,Jimmy Butler,Golden State Warriors,SF,30,85,Yes
+48,Yaxel Lendeborg,Golden State Warriors,PF,20,83,Yes
+49,Brandin Podziemski,Golden State Warriors,SG,20,81,No
+50,Kristaps Porzingis,Golden State Warriors,C,20,81,No
+51,Kevin Durant,Houston Rockets,SF,45,92,Yes
+52,Alperen Sengun,Houston Rockets,C,45,90,Yes
+53,Amen Thompson,Houston Rockets,SG,30,86,Yes
+54,Fred VanVleet,Houston Rockets,PG,20,81,No
+55,Jabari Smith Jr.,Houston Rockets,PF,20,81,No
+56,Tyrese Haliburton,Indiana Pacers,PG,45,90,Yes
+57,Pascal Siakam,Indiana Pacers,PF,30,88,Yes
+58,Ivica Zubac,Indiana Pacers,C,20,84,Yes
+59,Andrew Nembhard,Indiana Pacers,SG,20,82,No
+60,T.J. McConnell,Indiana Pacers,PG,12,79,No
+61,Darius Garland,Los Angeles Clippers,PG,20,84,Yes
+62,Brandon Ingram,Los Angeles Clippers,SF,20,84,Yes
+63,Brook Lopez,Los Angeles Clippers,C,12,79,Yes
+64,Derrick Jones Jr.,Los Angeles Clippers,SF,12,79,No
+65,Keaton Wagler,Los Angeles Clippers,PG,12,78,No
+66,Luka Doncic,Los Angeles Lakers,PG,45,97,Yes
+67,Austin Reaves,Los Angeles Lakers,SG,30,89,Yes
+68,Walker Kessler,Los Angeles Lakers,C,20,84,Yes
+69,Quentin Grimes,Los Angeles Lakers,SG,12,79,No
+70,Collin Sexton,Los Angeles Lakers,PG,12,78,No
+71,Ty Jerome,Memphis Grizzlies,PG,30,86,Yes
+72,Cameron Boozer,Memphis Grizzlies,PF,20,84,Yes
+73,Cedric Coward,Memphis Grizzlies,SG,20,82,Yes
+74,Zach Edey,Memphis Grizzlies,C,20,80,No
+75,Jaylen Wells,Memphis Grizzlies,SF,12,79,No
+76,Giannis Antetokounmpo,Miami Heat,PF,45,96,Yes
+77,Bam Adebayo,Miami Heat,C,30,88,Yes
+78,Davion Mitchell,Miami Heat,PG,20,83,Yes
+79,Klay Thompson,Miami Heat,SG,20,80,No
+80,Andrew Wiggins,Miami Heat,SF,12,78,No
+81,Tyler Herro,Milwaukee Bucks,SG,20,84,Yes
+82,Jaime Jaquez Jr.,Milwaukee Bucks,PF,20,81,Yes
+83,Ryan Rollins,Milwaukee Bucks,PG,12,79,Yes
+84,Kel’el Ware,Milwaukee Bucks,C,12,78,No
+85,Caris LeVert,Milwaukee Bucks,SF,12,78,No
+86,Anthony Edwards,Minnesota Timberwolves,SG,45,95,Yes
+87,LaMelo Ball,Minnesota Timberwolves,PG,30,87,Yes
+88,Jaden McDaniels,Minnesota Timberwolves,SF,30,85,Yes
+89,Rudy Gobert,Minnesota Timberwolves,C,20,84,No
+90,Ayo Dosunmu,Minnesota Timberwolves,SG,20,83,No
+91,Zion Williamson,New Orleans Pelicans,PF,30,86,Yes
+92,Trey Murphy III,New Orleans Pelicans,SF,20,82,Yes
+93,Dejounte Murray,New Orleans Pelicans,PG,20,81,Yes
+94,Saddiq Bey,New Orleans Pelicans,SF,20,81,No
+95,Jeremiah Fears,New Orleans Pelicans,PG,20,80,No
+96,Jalen Brunson,New York Knicks,PG,45,95,Yes
+97,Karl-Anthony Towns,New York Knicks,C,45,93,Yes
+98,OG Anunoby,New York Knicks,SF,30,87,Yes
+99,Josh Hart,New York Knicks,PF,20,80,No
+100,Mikal Bridges,New York Knicks,SG,12,78,No
+101,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,45,97,Yes
+102,Chet Holmgren,Oklahoma City Thunder,PF,30,86,Yes
+103,Jalen Williams,Oklahoma City Thunder,SF,30,85,Yes
+104,Ajay Mitchell,Oklahoma City Thunder,SF,20,84,No
+105,Isaiah Hartenstein,Oklahoma City Thunder,C,20,83,No
+106,Franz Wagner,Orlando Magic,SF,30,88,Yes
+107,Paolo Banchero,Orlando Magic,PF,30,87,Yes
+108,Desmond Bane,Orlando Magic,SG,20,83,Yes
+109,Anthony Black,Orlando Magic,SG,20,82,No
+110,Wendell Carter Jr.,Orlando Magic,C,20,81,No
+111,Tyrese Maxey,Philadelphia 76ers,PG,45,93,Yes
+112,Jaylen Brown,Philadelphia 76ers,SF,45,92,Yes
+113,Joel Embiid,Philadelphia 76ers,C,45,90,Yes
+114,LeBron James,Philadelphia 76ers,PF,45,90,No
+115,V.J. Edgecombe,Philadelphia 76ers,SG,20,83,No
+116,Devin Booker,Phoenix Suns,SG,45,92,Yes
+117,Dillon Brooks,Phoenix Suns,SF,20,81,Yes
+118,Miles Bridges,Phoenix Suns,PF,20,81,Yes
+119,Jalen Green,Phoenix Suns,PG,12,78,No
+120,Mark Williams,Phoenix Suns,C,12,78,No
+121,Deni Avdija,Portland Trail Blazers,SF,30,89,Yes
+122,Damian Lillard,Portland Trail Blazers,SG,30,87,Yes
+123,Donovan Clingan,Portland Trail Blazers,C,20,84,Yes
+124,Ja Morant,Portland Trail Blazers,PG,20,84,No
+125,Jrue Holiday,Portland Trail Blazers,SG,20,81,No
+126,Domantas Sabonis,Sacramento Kings,C,30,85,Yes
+127,Darius Acuff Jr.,Sacramento Kings,PG,20,84,Yes
+128,Zach LaVine,Sacramento Kings,SG,20,83,Yes
+129,Maxime Raynaud,Sacramento Kings,C,12,79,No
+130,Malik Monk,Sacramento Kings,SG,12,78,No
+131,Victor Wembanyama,San Antonio Spurs,C,45,97,Yes
+132,Stephon Castle,San Antonio Spurs,SG,30,86,Yes
+133,Dylan Harper,San Antonio Spurs,PG,30,86,Yes
+134,De’Aaron Fox,San Antonio Spurs,PG,20,84,No
+135,Devin Vassell,San Antonio Spurs,SF,20,81,No
+136,Kawhi Leonard,Toronto Raptors,SF,45,93,Yes
+137,Scottie Barnes,Toronto Raptors,PF,30,88,Yes
+138,R.J. Barrett,Toronto Raptors,SG,20,83,Yes
+139,Immanuel Quickley,Toronto Raptors,PG,20,82,No
+140,Collin Murray-Boyles,Toronto Raptors,C,20,80,No
+141,Jaren Jackson Jr.,Utah Jazz,C,30,86,Yes
+142,Lauri Markkanen,Utah Jazz,PF,20,84,Yes
+143,Keyonte George,Utah Jazz,PG,20,84,Yes
+144,Darryn Peterson,Utah Jazz,SG,20,81,No
+145,Ace Bailey,Utah Jazz,SF,12,79,No
+146,Anthony Davis,Washington Wizards,PF,45,92,Yes
+147,Trae Young,Washington Wizards,PG,30,87,Yes
+148,Alexandre Sarr,Washington Wizards,C,20,81,Yes
+149,Kyshawn George,Washington Wizards,SG,20,81,No
+150,AJ Dybantsa,Washington Wizards,SF,20,80,No
