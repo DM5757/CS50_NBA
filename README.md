@@ -1,7 +1,5 @@
 # NBA Expansion Draft Simulator
 
-#### Video Demo: https://youtu.be/GYcshMyj_Vw
-
 ## Description
 
 For my CS50P final project, I created an NBA Expansion Draft Simulator using Python. The idea is to become the general manager of a new NBA franchise and build a five-player roster by drafting players from existing teams.
